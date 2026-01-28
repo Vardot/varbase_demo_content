@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: 1c811da4-dca5-4095-baf6-45d59012c193
+  bundle: tags
+  default_langcode: en
+default:
+  revision_user:
+    -
+      target_id: 1
+  revision_log_message:
+    -
+      value: 'Created new Tags'
+  status:
+    -
+      value: true
+  name:
+    -
+      value: 'Web Development'
+  weight:
+    -
+      value: 4
+  parent:
+    -
+      target_id: 0
+  path:
+    -
+      alias: /blog/tags/web-development
+      langcode: en
+      pathauto: 1

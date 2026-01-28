@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: 2d648a2e-7ce1-4fa2-889b-7f8e68cf18b5
+  bundle: tags
+  default_langcode: en
+default:
+  revision_user:
+    -
+      target_id: 1
+  revision_log_message:
+    -
+      value: 'Created new Tags'
+  status:
+    -
+      value: true
+  name:
+    -
+      value: 'Digital Marketing'
+  weight:
+    -
+      value: 10
+  parent:
+    -
+      target_id: 0
+  path:
+    -
+      alias: /blog/tags/digital-marketing
+      langcode: en
+      pathauto: 1

@@ -1,0 +1,5 @@
+name: Varbase Demo Content
+description: Provides demo content for Varbase sites including a pre-configured sample pages. Gives new Varbase installations a working starting point that demonstrates key features and can be customized or replaced.
+type: Varbase Demo
+recipes:
+  - varbase_media_assets

@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: 7be249b2-7772-4be0-a7a7-5fb861e5f59b
+  bundle: tags
+  default_langcode: en
+default:
+  revision_user:
+    -
+      target_id: 1
+  revision_log_message:
+    -
+      value: 'Created new Tags'
+  status:
+    -
+      value: true
+  name:
+    -
+      value: Support
+  weight:
+    -
+      value: 27
+  parent:
+    -
+      target_id: 0
+  path:
+    -
+      alias: /blog/tags/support
+      langcode: en
+      pathauto: 1

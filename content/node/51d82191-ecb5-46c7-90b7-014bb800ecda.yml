@@ -1,0 +1,67 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 51d82191-ecb5-46c7-90b7-014bb800ecda
+  bundle: blog
+  default_langcode: en
+  depends:
+    28b4951b-67b1-47a6-ba4f-dc1bbf318d43: taxonomy_term
+    2be88e51-f343-44f9-b199-bf7b41fc98db: taxonomy_term
+    c0f30568-59f8-4023-b47e-7c52bc6f2388: taxonomy_term
+    bb99aa4c-69b6-4842-b748-92158357e601: taxonomy_term
+    c9fcd715-8d02-4604-bd76-6e7ba7efa507: media
+default:
+  revision_uid:
+  - target_id: 1
+  revision_log:
+  - value: Created new Blog post
+  status:
+  - value: true
+  uid:
+  - target_id: 1
+  title:
+  - value: Enhancing Your Website's Security with Varbase
+  created:
+  - value: 1714316400
+  promote:
+  - value: true
+  sticky:
+  - value: false
+  moderation_state:
+  - value: published
+  revision_translation_affected:
+  - value: true
+  path:
+  - alias: /blog/enhancing-your-websites-security-varbase
+    langcode: en
+    pathauto: 1
+  field_tags:
+  - entity: 28b4951b-67b1-47a6-ba4f-dc1bbf318d43
+  - entity: 2be88e51-f343-44f9-b199-bf7b41fc98db
+  - entity: c0f30568-59f8-4023-b47e-7c52bc6f2388
+  - entity: bb99aa4c-69b6-4842-b748-92158357e601
+  field_content:
+  - value: <h3>Overview of Security Features:</h3><p>Varbase is built with security
+      at its core, leveraging Drupal’s robust security framework and enhancing it
+      further with custom features. This post delves into these enhancements, which
+      include advanced user role and permission configurations, automated security
+      updates, and built-in protection against common vulnerabilities.</p><h3>How
+      to Secure Your Varbase Site:</h3><p>Start by configuring user roles and permissions
+      to control access levels across your site. Varbase simplifies this process with
+      a pre-configured security kit. Regularly update your Varbase distribution and
+      modules through the admin dashboard to ensure you have the latest security patches.
+      Additionally, use Varbase’s built-in features to set up HTTPS, configure password
+      policies, and monitor user activities.</p><h3>Testimonial on Security:</h3><p>"We
+      have been using Varbase for our client’s websites, and the built-in security
+      features have provided us with peace of mind knowing that our sites are protected
+      against potential threats," comments Jane Smith, a senior developer at SecureWeb
+      Inc.</p>
+    format: content_format
+  field_description:
+  - value: Overview of Security Features:Varbase is built with security at its core,
+      leveraging Drupal’s robust security framework and enhancing it further with
+      custom features
+  field_featured_image:
+  - entity: c9fcd715-8d02-4604-bd76-6e7ba7efa507
+  field_blog__byline:
+  - value: Varbase Team

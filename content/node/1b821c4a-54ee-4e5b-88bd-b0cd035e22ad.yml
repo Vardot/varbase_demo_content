@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 1b821c4a-54ee-4e5b-88bd-b0cd035e22ad
+  bundle: blog
+  default_langcode: en
+  depends:
+    59d9ce37-b406-4b0d-8f7c-6002f3447554: media
+default:
+  revision_uid:
+  - target_id: 1
+  revision_log:
+  - value: Created new Blog post
+  status:
+  - value: true
+  uid:
+  - target_id: 1
+  title:
+  - value: 'Case Studies: Successful Websites Powered by Varbase'
+  created:
+  - value: 1711623600
+  promote:
+  - value: true
+  sticky:
+  - value: false
+  moderation_state:
+  - value: published
+  revision_translation_affected:
+  - value: true
+  path:
+  - alias: /blog/case-studies-successful-websites-powered-varbase
+    langcode: en
+    pathauto: 1
+  field_content:
+  - value: <h3>Showcasing Varbase Success Stories:</h3><p>This blog post will highlight
+      several case studies of successful websites that have been built using Varbase.
+      From small businesses to large corporations, Varbase has played a crucial role
+      in building diverse and effective online presences.</p><h3>Detailed Case Study
+      Analysis:</h3><p>Explore a detailed case study of a non-profit organization
+      that used Varbase to double their online engagement and streamline their content
+      management processes. Learn how Varbase’s features were tailored to meet their
+      specific needs and the outcomes of their initiatives.</p><h3>Inspirational Outcomes
+      from Varbase Users:</h3><p>Hear from multiple users who have seen significant
+      improvements in traffic, user engagement, and operational</p>
+    format: content_format
+  field_description:
+  - value: Showcasing Varbase Success Stories:This blog post will highlight several
+      case studies of successful websites that have been built using Varbase
+  field_featured_image:
+  - entity: 59d9ce37-b406-4b0d-8f7c-6002f3447554
+  field_blog__byline:
+  - value: Varbase Team

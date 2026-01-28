@@ -1,0 +1,72 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 588db700-2dfd-4ead-ab4b-1b822fb46f2b
+  bundle: blog
+  default_langcode: en
+  depends:
+    c0f30568-59f8-4023-b47e-7c52bc6f2388: taxonomy_term
+    2be88e51-f343-44f9-b199-bf7b41fc98db: taxonomy_term
+    1c811da4-dca5-4095-baf6-45d59012c193: taxonomy_term
+    867c0d89-97ae-4b56-a6d4-c1b1c52228dc: taxonomy_term
+    fe305fae-3725-4766-b471-9481351e510a: taxonomy_term
+    5435d1ce-9ef1-4fbc-bcca-047c72a3369e: media
+default:
+  revision_uid:
+  - target_id: 1
+  revision_log:
+  - value: Created new Blog post
+  status:
+  - value: true
+  uid:
+  - target_id: 1
+  title:
+  - value: Why Varbase? The Ultimate Drupal Distribution for Accelerated Development
+  created:
+  - value: 1714334400
+  promote:
+  - value: true
+  sticky:
+  - value: false
+  moderation_state:
+  - value: published
+  revision_translation_affected:
+  - value: true
+  path:
+  - alias: /blog/why-varbase-ultimate-drupal-distribution-accelerated-development
+    langcode: en
+    pathauto: 1
+  field_tags:
+  - entity: c0f30568-59f8-4023-b47e-7c52bc6f2388
+  - entity: 2be88e51-f343-44f9-b199-bf7b41fc98db
+  - entity: 1c811da4-dca5-4095-baf6-45d59012c193
+  - entity: 867c0d89-97ae-4b56-a6d4-c1b1c52228dc
+  - entity: fe305fae-3725-4766-b471-9481351e510a
+  field_content:
+  - value: <h3>Introduction to Varbase:</h3><p>Varbase is more than just a Drupal
+      distribution—it's a powerhouse designed for developers who aim to build complex,
+      feature-rich websites efficiently. This enhanced distribution comes pre-configured
+      with essential modules and functionalities that cater to a wide range of needs,
+      from media management to SEO, and multilingual capabilities. It offers a robust
+      foundation that accelerates the development process, allowing you to launch
+      faster while maintaining high-quality standards.</p><h3>Core Features and Benefits:</h3><p>Explore
+      how Varbase transforms the Drupal experience with advanced tools integrated
+      right out of the box. For example, the Media module extends Drupal’s core media
+      capabilities, providing a more user-friendly interface and better media management.
+      SEO tools like Metatag and Redirect modules ensure that your site is optimized
+      for search engines from day one. Additionally, Varbase’s mobile-first approach
+      guarantees that your website is responsive on all devices, enhancing accessibility
+      and user engagement.</p><h3>Testimonial from a Varbase Developer:</h3><blockquote><p>"Using
+      Varbase has cut down our development time significantly. Features that typically
+      took weeks to implement are now just a part of the workflow from the start.
+      It’s not only efficient but also incredibly powerful," shares John Doe, a web
+      developer from XYZ Web Solutions.</p></blockquote>
+    format: content_format
+  field_description:
+  - value: Introduction to Varbase:Varbase is more than just a Drupal distribution—it's
+      a powerhouse designed for developers who aim to build complex, feature-rich
+      websites efficiently
+  field_featured_image:
+  - entity: 5435d1ce-9ef1-4fbc-bcca-047c72a3369e
+  field_blog__byline:
+  - value: Varbase Team
