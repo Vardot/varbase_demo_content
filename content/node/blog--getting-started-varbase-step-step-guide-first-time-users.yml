@@ -82,9 +82,6 @@ default:
       value: Introduction to Getting Started:If you're new to Varbase, you'll appreciate
         how straightforward it is to set up and configure compared to a standard Drupal
         installation
-  field_blog__byline:
-    -
-      value: Varbase Team
   field_featured_image:
     -
       entity: d6872c78-d3da-4651-980d-1e62ee0332c5

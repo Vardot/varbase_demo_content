@@ -73,9 +73,6 @@ default:
     -
       value: The Role of Community in Open Source Projects:Open-source projects thrive
         on their communities, and Varbase is no exception
-  field_blog__byline:
-    -
-      value: Varbase Team
   field_featured_image:
     -
       entity: 54f43ead-20b5-4c46-9e39-4a9e38a43e43

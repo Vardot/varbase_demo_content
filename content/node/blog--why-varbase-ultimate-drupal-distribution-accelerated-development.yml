@@ -87,6 +87,3 @@ default:
   field_featured_image:
     -
       entity: 5435d1ce-9ef1-4fbc-bcca-047c72a3369e
-  field_blog__byline:
-    -
-      value: Varbase Team
