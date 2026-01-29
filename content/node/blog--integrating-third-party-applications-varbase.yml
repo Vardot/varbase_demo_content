@@ -12,53 +12,72 @@ _meta:
     4a63ee9d-5725-46b0-be84-b5730e7e0c78: media
 default:
   revision_uid:
-  - target_id: 1
+    -
+      target_id: 1
   revision_log:
-  - value: Created new Blog post
+    -
+      value: Created new Blog post
   status:
-  - value: true
+    -
+      value: true
   uid:
-  - target_id: 1
+    -
+      target_id: 1
   title:
-  - value: Integrating Third-Party Applications with Varbase
+    -
+      value: Integrating Third-Party Applications with Varbase
   created:
-  - value: 1714219200
+    -
+      value: 1714219200
   promote:
-  - value: true
+    -
+      value: true
   sticky:
-  - value: false
+    -
+      value: false
   moderation_state:
-  - value: published
+    -
+      value: published
   revision_translation_affected:
-  - value: true
+    -
+      value: true
   path:
-  - alias: /blog/integrating-third-party-applications-varbase
-    langcode: en
-    pathauto: 1
+    -
+      alias: /blog/integrating-third-party-applications-varbase
+      langcode: en
+      pathauto: 1
   field_tags:
-  - entity: 7ed6cf56-7029-4eca-97cd-34d91c1c49e9
-  - entity: b3760aac-0df2-45ac-bb11-b243344b1db5
-  - entity: c0f30568-59f8-4023-b47e-7c52bc6f2388
-  - entity: 2be88e51-f343-44f9-b199-bf7b41fc98db
+    -
+      entity: 7ed6cf56-7029-4eca-97cd-34d91c1c49e9
+    -
+      entity: b3760aac-0df2-45ac-bb11-b243344b1db5
+    -
+      entity: c0f30568-59f8-4023-b47e-7c52bc6f2388
+    -
+      entity: 2be88e51-f343-44f9-b199-bf7b41fc98db
   field_content:
-  - value: <h3>Benefits of Integration with Third-Party Services:</h3><p>Enhancing
-      your Varbase site by integrating it with third-party applications can expand
-      its functionality and streamline operations. Whether it’s marketing tools, analytics,
-      or social media platforms, Varbase supports seamless integration.</p><h3>How
-      to Integrate Popular Applications with Varbase:</h3><p>This guide will show
-      you how to integrate CRM systems like Salesforce, social media platforms like
-      Twitter and Facebook, and marketing tools such as Mailchimp. Utilize modules
-      available within Varbase or Drupal’s extensive module community to connect your
-      site with these services effortlessly.</p><h3>Testimonial on Effective Integration:</h3><p>"Integrating
-      our Varbase site with our CRM and email marketing platforms has saved us countless
-      hours in data management and marketing operations," notes Tom Clark, IT director
-      at MarketGrowth.</p>
-    format: content_format
+    -
+      value: <h3>Benefits of Integration with Third-Party Services:</h3><p>Enhancing
+        your Varbase site by integrating it with third-party applications can expand
+        its functionality and streamline operations. Whether it's marketing tools, analytics,
+        or social media platforms, Varbase supports seamless integration.</p><h3>How
+        to Integrate Popular Applications with Varbase:</h3><p>This guide will show
+        you how to integrate CRM systems like Salesforce, social media platforms like
+        Twitter and Facebook, and marketing tools such as Mailchimp. Utilize modules
+        available within Varbase or Drupal's extensive module community to connect your
+        site with these services effortlessly.</p><h3>Testimonial on Effective Integration:</h3><p>"Integrating
+        our Varbase site with our CRM and email marketing platforms has saved us countless
+        hours in data management and marketing operations," notes Tom Clark, IT director
+        at MarketGrowth.</p>
+      format: content_format
   field_description:
-  - value: Benefits of Integration with Third-Party Services:Enhancing your Varbase
-      site by integrating it with third-party applications can expand its functionality
-      and streamline operations
+    -
+      value: Benefits of Integration with Third-Party Services:Enhancing your Varbase
+        site by integrating it with third-party applications can expand its functionality
+        and streamline operations
   field_featured_image:
-  - entity: 4a63ee9d-5725-46b0-be84-b5730e7e0c78
+    -
+      entity: 4a63ee9d-5725-46b0-be84-b5730e7e0c78
   field_blog__byline:
-  - value: Varbase Team
+    -
+      value: Varbase Team

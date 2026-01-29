@@ -12,55 +12,74 @@ _meta:
     b45820f4-7a2f-48f7-9869-0a48a26330d1: media
 default:
   revision_uid:
-  - target_id: 1
+    -
+      target_id: 1
   revision_log:
-  - value: Created new Blog post
+    -
+      value: Created new Blog post
   status:
-  - value: true
+    -
+      value: true
   uid:
-  - target_id: 1
+    -
+      target_id: 1
   title:
-  - value: 'Leveraging Varbase for E-commerce: Features that Transform Your Online
-      Store'
+    -
+      value: 'Leveraging Varbase for E-commerce: Features that Transform Your Online
+        Store'
   created:
-  - value: 1714330800
+    -
+      value: 1714330800
   promote:
-  - value: true
+    -
+      value: true
   sticky:
-  - value: false
+    -
+      value: false
   moderation_state:
-  - value: published
+    -
+      value: published
   revision_translation_affected:
-  - value: true
+    -
+      value: true
   path:
-  - alias: /blog/leveraging-varbase-e-commerce-features-transform-your-online-store
-    langcode: en
-    pathauto: 1
+    -
+      alias: /blog/leveraging-varbase-e-commerce-features-transform-your-online-store
+      langcode: en
+      pathauto: 1
   field_tags:
-  - entity: 09388d6f-172c-4ab3-8756-edacb613a4ed
-  - entity: c0f30568-59f8-4023-b47e-7c52bc6f2388
-  - entity: c5c82d50-c029-4d81-80fa-e956a869b949
-  - entity: 2be88e51-f343-44f9-b199-bf7b41fc98db
+    -
+      entity: 09388d6f-172c-4ab3-8756-edacb613a4ed
+    -
+      entity: c0f30568-59f8-4023-b47e-7c52bc6f2388
+    -
+      entity: c5c82d50-c029-4d81-80fa-e956a869b949
+    -
+      entity: 2be88e51-f343-44f9-b199-bf7b41fc98db
   field_content:
-  - value: <h3>Overview of E-commerce Features:</h3><p>E-commerce capabilities are
-      more robust than ever with Varbase, thanks to its comprehensive tools that support
-      online stores. From product management to checkout and payment integration,
-      Varbase has everything you need to set up and manage a successful online store.</p><h3>How
-      to Set Up an Online Store with Varbase:</h3><p>Begin by installing the Commerce
-      module, a powerful e-commerce solution integrated into Varbase. Add your products,
-      complete with descriptions, prices, images, and variations. Configure payment
-      methods and shipping options through Varbase’s intuitive interfaces. The platform
-      supports various payment gateways, ensuring flexibility for your business needs.</p><h3>Enhancing
-      the Shopping Experience:</h3><p>Improve customer engagement and sales with Varbase’s
-      marketing tools, such as discounts, promotions, and customer reviews. Utilize
-      Varbase’s built-in analytics to track user behavior and sales trends, which
-      will help you make informed decisions to enhance your store’s performance.</p>
-    format: content_format
+    -
+      value: <h3>Overview of E-commerce Features:</h3><p>E-commerce capabilities are
+        more robust than ever with Varbase, thanks to its comprehensive tools that support
+        online stores. From product management to checkout and payment integration,
+        Varbase has everything you need to set up and manage a successful online store.</p><h3>How
+        to Set Up an Online Store with Varbase:</h3><p>Begin by installing the Commerce
+        module, a powerful e-commerce solution integrated into Varbase. Add your products,
+        complete with descriptions, prices, images, and variations. Configure payment
+        methods and shipping options through Varbase's intuitive interfaces. The platform
+        supports various payment gateways, ensuring flexibility for your business needs.</p><h3>Enhancing
+        the Shopping Experience:</h3><p>Improve customer engagement and sales with Varbase's
+        marketing tools, such as discounts, promotions, and customer reviews. Utilize
+        Varbase's built-in analytics to track user behavior and sales trends, which
+        will help you make informed decisions to enhance your store's performance.</p>
+      format: content_format
   field_description:
-  - value: Overview of E-commerce Features:E-commerce capabilities are more robust
-      than ever with Varbase, thanks to its comprehensive tools that support online
-      stores
+    -
+      value: Overview of E-commerce Features:E-commerce capabilities are more robust
+        than ever with Varbase, thanks to its comprehensive tools that support online
+        stores
   field_featured_image:
-  - entity: b45820f4-7a2f-48f7-9869-0a48a26330d1
+    -
+      entity: b45820f4-7a2f-48f7-9869-0a48a26330d1
   field_blog__byline:
-  - value: Varbase Team
+    -
+      value: Varbase Team

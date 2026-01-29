@@ -12,53 +12,72 @@ _meta:
     53e7e92c-6506-408b-89cc-2ec279a9ec92: media
 default:
   revision_uid:
-  - target_id: 1
+    -
+      target_id: 1
   revision_log:
-  - value: Created new Blog post
+    -
+      value: Created new Blog post
   status:
-  - value: true
+    -
+      value: true
   uid:
-  - target_id: 1
+    -
+      target_id: 1
   title:
-  - value: 'Customizing Your Website with Varbase: Flexibility and Freedom'
+    -
+      value: 'Customizing Your Website with Varbase: Flexibility and Freedom'
   created:
-  - value: 1714327200
+    -
+      value: 1714327200
   promote:
-  - value: true
+    -
+      value: true
   sticky:
-  - value: false
+    -
+      value: false
   moderation_state:
-  - value: published
+    -
+      value: published
   revision_translation_affected:
-  - value: true
+    -
+      value: true
   path:
-  - alias: /blog/customizing-your-website-varbase-flexibility-and-freedom
-    langcode: en
-    pathauto: 1
+    -
+      alias: /blog/customizing-your-website-varbase-flexibility-and-freedom
+      langcode: en
+      pathauto: 1
   field_tags:
-  - entity: 928bc5c7-5c8a-47b8-9276-bfe804f52ec1
-  - entity: 6cab6fc4-df88-4713-976c-69dae2751aa0
-  - entity: c0f30568-59f8-4023-b47e-7c52bc6f2388
-  - entity: 2be88e51-f343-44f9-b199-bf7b41fc98db
+    -
+      entity: 928bc5c7-5c8a-47b8-9276-bfe804f52ec1
+    -
+      entity: 6cab6fc4-df88-4713-976c-69dae2751aa0
+    -
+      entity: c0f30568-59f8-4023-b47e-7c52bc6f2388
+    -
+      entity: 2be88e51-f343-44f9-b199-bf7b41fc98db
   field_content:
-  - value: <h3>Exploring Varbase’s Customization Capabilities:</h3><p>Customization
-      is key to making a website fit your brand’s unique needs and style. Varbase’s
-      flexible architecture allows you to tailor every aspect of your site, from themes
-      and layouts to functionality.</p><h3>Step-by-Step Customization Using Varbase:</h3><p>Learn
-      how to utilize the Layout Builder in Varbase to create custom page layouts.
-      This tool allows you to drag and drop different elements, creating unique pages
-      without needing to write code. Additionally, explore how to use Varbase’s sub-theming
-      capabilities to alter CSS and JavaScript according to your branding needs.</p><h3>Real-World
-      Customization Success Story:</h3><p>"A custom theme developed with Varbase elevated
-      our brand and engaged our audience significantly better," remarks Lisa Green,
-      a digital manager at Creative Solutions. "Varbase’s tools were intuitive and
-      powerful, making the customization process straightforward even for our less
-      technically inclined team members."</p>
-    format: content_format
+    -
+      value: <h3>Exploring Varbase's Customization Capabilities:</h3><p>Customization
+        is key to making a website fit your brand's unique needs and style. Varbase's
+        flexible architecture allows you to tailor every aspect of your site, from themes
+        and layouts to functionality.</p><h3>Step-by-Step Customization Using Varbase:</h3><p>Learn
+        how to utilize the Layout Builder in Varbase to create custom page layouts.
+        This tool allows you to drag and drop different elements, creating unique pages
+        without needing to write code. Additionally, explore how to use Varbase's sub-theming
+        capabilities to alter CSS and JavaScript according to your branding needs.</p><h3>Real-World
+        Customization Success Story:</h3><p>"A custom theme developed with Varbase elevated
+        our brand and engaged our audience significantly better," remarks Lisa Green,
+        a digital manager at Creative Solutions. "Varbase's tools were intuitive and
+        powerful, making the customization process straightforward even for our less
+        technically inclined team members."</p>
+      format: content_format
   field_description:
-  - value: Exploring Varbase’s Customization Capabilities:Customization is key to
-      making a website fit your brand’s unique needs and style
+    -
+      value: Exploring Varbase's Customization Capabilities:Customization is key to
+        making a website fit your brand's unique needs and style
   field_featured_image:
-  - entity: 53e7e92c-6506-408b-89cc-2ec279a9ec92
+    -
+      entity: 53e7e92c-6506-408b-89cc-2ec279a9ec92
   field_blog__byline:
-  - value: Varbase Team
+    -
+      value: Varbase Team

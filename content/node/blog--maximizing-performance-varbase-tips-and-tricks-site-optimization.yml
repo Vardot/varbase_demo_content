@@ -12,54 +12,73 @@ _meta:
     f0429b52-d9f7-4f38-b6bf-c13e3f38d8ef: media
 default:
   revision_uid:
-  - target_id: 1
+    -
+      target_id: 1
   revision_log:
-  - value: Created new Blog post
+    -
+      value: Created new Blog post
   status:
-  - value: true
+    -
+      value: true
   uid:
-  - target_id: 1
+    -
+      target_id: 1
   title:
-  - value: 'Maximizing Performance with Varbase: Tips and Tricks for Site Optimization'
+    -
+      value: 'Maximizing Performance with Varbase: Tips and Tricks for Site Optimization'
   created:
-  - value: 1714309200
+    -
+      value: 1714309200
   promote:
-  - value: true
+    -
+      value: true
   sticky:
-  - value: false
+    -
+      value: false
   moderation_state:
-  - value: published
+    -
+      value: published
   revision_translation_affected:
-  - value: true
+    -
+      value: true
   path:
-  - alias: /blog/maximizing-performance-varbase-tips-and-tricks-site-optimization
-    langcode: en
-    pathauto: 1
+    -
+      alias: /blog/maximizing-performance-varbase-tips-and-tricks-site-optimization
+      langcode: en
+      pathauto: 1
   field_tags:
-  - entity: fb8f9222-58b1-44b0-b7f9-76992ef8f884
-  - entity: 8ebafa5a-78eb-474b-95bd-bfe58ad76250
-  - entity: c0f30568-59f8-4023-b47e-7c52bc6f2388
-  - entity: 2be88e51-f343-44f9-b199-bf7b41fc98db
+    -
+      entity: fb8f9222-58b1-44b0-b7f9-76992ef8f884
+    -
+      entity: 8ebafa5a-78eb-474b-95bd-bfe58ad76250
+    -
+      entity: c0f30568-59f8-4023-b47e-7c52bc6f2388
+    -
+      entity: 2be88e51-f343-44f9-b199-bf7b41fc98db
   field_content:
-  - value: <h3>Introduction to Performance Optimization:</h3><p>Website performance
-      is crucial for user satisfaction and SEO rankings. Varbase is designed to enhance
-      the performance of your Drupal site through built-in tools and best practices
-      for web performance optimization.</p><h3>Optimizing Performance in Varbase:</h3><p>Start
-      by utilizing Varbase’s advanced caching features, which can dramatically reduce
-      load times. Configure the CDN module for faster content delivery globally. Also,
-      leverage the Image Optimization module that Varbase provides to automatically
-      adjust image sizes without losing quality, ensuring your pages load faster even
-      with high-quality visuals.</p><h3>Further Tips on Speed Enhancement:</h3><p>Regularly
-      update your Varbase installation and modules to ensure you are using the most
-      efficient code. Minimize the use of heavy plugins, and regularly audit your
-      site’s performance using tools like Google PageSpeed Insights to find additional
-      areas for improvement. Always aim for a clean and efficient code base to keep
-      your site running smoothly.</p>
-    format: content_format
+    -
+      value: <h3>Introduction to Performance Optimization:</h3><p>Website performance
+        is crucial for user satisfaction and SEO rankings. Varbase is designed to enhance
+        the performance of your Drupal site through built-in tools and best practices
+        for web performance optimization.</p><h3>Optimizing Performance in Varbase:</h3><p>Start
+        by utilizing Varbase's advanced caching features, which can dramatically reduce
+        load times. Configure the CDN module for faster content delivery globally. Also,
+        leverage the Image Optimization module that Varbase provides to automatically
+        adjust image sizes without losing quality, ensuring your pages load faster even
+        with high-quality visuals.</p><h3>Further Tips on Speed Enhancement:</h3><p>Regularly
+        update your Varbase installation and modules to ensure you are using the most
+        efficient code. Minimize the use of heavy plugins, and regularly audit your
+        site's performance using tools like Google PageSpeed Insights to find additional
+        areas for improvement. Always aim for a clean and efficient code base to keep
+        your site running smoothly.</p>
+      format: content_format
   field_description:
-  - value: Introduction to Performance Optimization:Website performance is crucial
-      for user satisfaction and SEO rankings
+    -
+      value: Introduction to Performance Optimization:Website performance is crucial
+        for user satisfaction and SEO rankings
   field_featured_image:
-  - entity: f0429b52-d9f7-4f38-b6bf-c13e3f38d8ef
+    -
+      entity: f0429b52-d9f7-4f38-b6bf-c13e3f38d8ef
   field_blog__byline:
-  - value: Varbase Team
+    -
+      value: Varbase Team

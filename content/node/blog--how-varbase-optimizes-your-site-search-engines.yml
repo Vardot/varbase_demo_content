@@ -12,57 +12,76 @@ _meta:
     d810838b-aef1-4555-b48b-47e8d98188f6: media
 default:
   revision_uid:
-  - target_id: 1
+    -
+      target_id: 1
   revision_log:
-  - value: Created new Blog post
+    -
+      value: Created new Blog post
   status:
-  - value: true
+    -
+      value: true
   uid:
-  - target_id: 1
+    -
+      target_id: 1
   title:
-  - value: How Varbase Optimizes Your Site for Search Engines
+    -
+      value: How Varbase Optimizes Your Site for Search Engines
   created:
-  - value: 1714320000
+    -
+      value: 1714320000
   promote:
-  - value: true
+    -
+      value: true
   sticky:
-  - value: false
+    -
+      value: false
   moderation_state:
-  - value: published
+    -
+      value: published
   revision_translation_affected:
-  - value: true
+    -
+      value: true
   path:
-  - alias: /blog/how-varbase-optimizes-your-site-search-engines
-    langcode: en
-    pathauto: 1
+    -
+      alias: /blog/how-varbase-optimizes-your-site-search-engines
+      langcode: en
+      pathauto: 1
   field_tags:
-  - entity: 867c0d89-97ae-4b56-a6d4-c1b1c52228dc
-  - entity: c0f30568-59f8-4023-b47e-7c52bc6f2388
-  - entity: 2be88e51-f343-44f9-b199-bf7b41fc98db
-  - entity: 2d648a2e-7ce1-4fa2-889b-7f8e68cf18b5
+    -
+      entity: 867c0d89-97ae-4b56-a6d4-c1b1c52228dc
+    -
+      entity: c0f30568-59f8-4023-b47e-7c52bc6f2388
+    -
+      entity: 2be88e51-f343-44f9-b199-bf7b41fc98db
+    -
+      entity: 2d648a2e-7ce1-4fa2-889b-7f8e68cf18b5
   field_content:
-  - value: <h3>Introduction to SEO Optimization:</h3><p>Search Engine Optimization
-      (SEO) is crucial for any website aiming to increase visibility and attract more
-      visitors. Varbase is equipped with powerful SEO tools designed to help your
-      website rank better in search results. This post will explore the integrated
-      SEO tools that Varbase offers and how they can help improve your site's SEO
-      performance.</p><h3>Implementing SEO Tools in Varbase:</h3><p>First, utilize
-      the Metatag module to manage meta tags for all your content automatically. You
-      can set global configurations that apply default tags across your site or customize
-      them for individual pages. Also, make sure to enable the XML Sitemap module,
-      which helps search engines better index your site by providing a map of all
-      your pages. For finer control over URLs, use the Pathauto module in Varbase,
-      which automatically generates search-engine-friendly URLs based on content titles.</p><h3>Enhancing
-      Content for SEO:</h3><p>Beyond technical SEO, content optimization is vital.
-      Varbase supports structured content practices that improve SEO, such as using
-      heading tags and adding alt text to images. Regularly update your content and
-      utilize Varbase’s built-in analytics tools to monitor how changes affect your
-      SEO performance, adjusting your strategy accordingly.</p>
-    format: content_format
+    -
+      value: <h3>Introduction to SEO Optimization:</h3><p>Search Engine Optimization
+        (SEO) is crucial for any website aiming to increase visibility and attract more
+        visitors. Varbase is equipped with powerful SEO tools designed to help your
+        website rank better in search results. This post will explore the integrated
+        SEO tools that Varbase offers and how they can help improve your site's SEO
+        performance.</p><h3>Implementing SEO Tools in Varbase:</h3><p>First, utilize
+        the Metatag module to manage meta tags for all your content automatically. You
+        can set global configurations that apply default tags across your site or customize
+        them for individual pages. Also, make sure to enable the XML Sitemap module,
+        which helps search engines better index your site by providing a map of all
+        your pages. For finer control over URLs, use the Pathauto module in Varbase,
+        which automatically generates search-engine-friendly URLs based on content titles.</p><h3>Enhancing
+        Content for SEO:</h3><p>Beyond technical SEO, content optimization is vital.
+        Varbase supports structured content practices that improve SEO, such as using
+        heading tags and adding alt text to images. Regularly update your content and
+        utilize Varbase's built-in analytics tools to monitor how changes affect your
+        SEO performance, adjusting your strategy accordingly.</p>
+      format: content_format
   field_description:
-  - value: Introduction to SEO Optimization:Search Engine Optimization (SEO) is crucial
-      for any website aiming to increase visibility and attract more visitors
+    -
+      value: Introduction to SEO Optimization:Search Engine Optimization (SEO) is crucial
+        for any website aiming to increase visibility and attract more visitors
   field_featured_image:
-  - entity: d810838b-aef1-4555-b48b-47e8d98188f6
+    -
+      entity: d810838b-aef1-4555-b48b-47e8d98188f6
   field_blog__byline:
-  - value: Varbase Team
+    -
+      value: Varbase Team
