@@ -26,9 +26,6 @@ default:
   title:
     -
       value: How Varbase Optimizes Your Site for Search Engines
-  created:
-    -
-      value: 1714320000
   promote:
     -
       value: true

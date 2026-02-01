@@ -27,9 +27,6 @@ default:
   title:
     -
       value: Why Varbase? The Ultimate Drupal Distribution for Accelerated Development
-  created:
-    -
-      value: 1714334400
   promote:
     -
       value: true

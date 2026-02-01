@@ -26,9 +26,6 @@ default:
   title:
     -
       value: 'Varbase as a Mobile-First Platform: Building Responsive Websites'
-  created:
-    -
-      value: 1714323600
   promote:
     -
       value: true

@@ -22,9 +22,6 @@ default:
   title:
     -
       value: 'Case Studies: Successful Websites Powered by Varbase'
-  created:
-    -
-      value: 1711623600
   promote:
     -
       value: true

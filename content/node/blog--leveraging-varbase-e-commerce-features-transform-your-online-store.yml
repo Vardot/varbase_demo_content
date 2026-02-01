@@ -27,9 +27,6 @@ default:
     -
       value: 'Leveraging Varbase for E-commerce: Features that Transform Your Online
         Store'
-  created:
-    -
-      value: 1714330800
   promote:
     -
       value: true

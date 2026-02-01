@@ -27,9 +27,6 @@ default:
   title:
     -
       value: 'Getting Started with Varbase: A Step-by-Step Guide for First-Time Users'
-  created:
-    -
-      value: 1711713600
   promote:
     -
       value: true

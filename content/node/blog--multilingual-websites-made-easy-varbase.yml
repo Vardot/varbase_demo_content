@@ -26,9 +26,6 @@ default:
   title:
     -
       value: Multilingual Websites Made Easy with Varbase
-  created:
-    -
-      value: 1714312800
   promote:
     -
       value: true

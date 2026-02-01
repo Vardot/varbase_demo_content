@@ -26,9 +26,6 @@ default:
   title:
     -
       value: Integrating Third-Party Applications with Varbase
-  created:
-    -
-      value: 1714219200
   promote:
     -
       value: true

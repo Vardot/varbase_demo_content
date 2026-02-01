@@ -26,9 +26,6 @@ default:
   title:
     -
       value: 'The Community Behind Varbase: Support and Collaboration'
-  created:
-    -
-      value: 1711627200
   promote:
     -
       value: true

@@ -26,9 +26,6 @@ default:
   title:
     -
       value: 'Maximizing Performance with Varbase: Tips and Tricks for Site Optimization'
-  created:
-    -
-      value: 1714309200
   promote:
     -
       value: true
