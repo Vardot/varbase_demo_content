@@ -1,6 +1,9 @@
 [![Varbase](https://raw.githubusercontent.com/Vardot/varbase/11.0.x/images/varbase-logo.png)](https://www.drupal.org/project/varbase)
 
 # Varbase Demo Content
+[![pipeline status](https://git.drupalcode.org/project/varbase_demo_content/badges/1.0.x/pipeline.svg)](https://git.drupalcode.org/project/varbase_demo_content/-/pipelines)
+[![Varbase Demo Content](https://img.shields.io/badge/Varbase%20Demo%20Content-1.0.0--alpha2-0d6efc?labelColor=001d38&style=flat-square)](https://git.drupalcode.org/project/varbase_demo_content/-/pipelines?ref=1.0.0-alpha2)
+[![Automated Functional Testing](https://git.drupalcode.org/project/varbase_project/badges/11.0.x/pipeline.svg)](https://git.drupalcode.org/project/varbase_project/-/pipelines)
 
 Provides demo content for Varbase sites including a pre-configured sample pages.
 
